@@ -1,0 +1,12 @@
+C:\Users\charley\source\repos\Freeglut installation\Debug\Freeglut installation.exe
+C:\Users\charley\source\repos\Freeglut installation\Debug\Freeglut installation.pdb
+C:\Users\maxch\Downloads\OneDrive_2021-01-26\Freeglut installation\Debug\Freeglut installation.exe
+C:\Users\maxch\Downloads\OneDrive_2021-01-26\Freeglut installation\Debug\Freeglut installation.pdb
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\Debug\Freeglut installation.exe
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\Debug\Freeglut installation.pdb
+C:\Users\c017051k\Downloads\HelloGLWorking\HelloGLWorking\Debug\Freeglut installation.exe
+C:\Users\c017051k\Downloads\HelloGLWorking\HelloGLWorking\Debug\Freeglut installation.pdb
+C:\Users\maxch\Documents\Uni Files\Foggs\HelloGLWorking\HelloGLWorking\Debug\Freeglut installation.exe
+C:\Users\maxch\Documents\Uni Files\Foggs\HelloGLWorking\HelloGLWorking\Debug\Freeglut installation.pdb
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Debug\Freeglut installation.exe
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Debug\Freeglut installation.pdb
