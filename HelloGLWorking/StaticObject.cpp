@@ -1,6 +1,9 @@
+/*
+Code I used for the rendering of pyramids that is no longer used, but saved for future reference.
+
 #include "StaticObject.h"
 #include "SceneObject.h"
-/*Vertex* Pyramid::indexedVertices = nullptr;
+Vertex* Pyramid::indexedVertices = nullptr;
 Color* Pyramid::indexedColors = nullptr;
 GLushort* Pyramid::indices = nullptr;
 int Pyramid::numVertices = 0;
@@ -19,7 +22,7 @@ void Pyramid::Update()
 {
 	
 }
-/*void Pyramid::Draw()
+void Pyramid::Draw()
 {
 
 	if (_mesh->Vertices != nullptr && _mesh->Colors != nullptr && _mesh->Indices != nullptr)

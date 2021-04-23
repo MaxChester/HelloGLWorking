@@ -7,6 +7,7 @@ int Cube::numVertices = 0;
 int Cube::numIndices = 0;
 Cube::Cube(Mesh* mesh, Texture2D* texture, float x, float y, float z) : SceneObject(mesh, texture)
 {
+	//Code allowing the cube to understand the position it needs to load, rotation speed, speed it fly's across the screen and texture it uses.
 	_position.x = x;
 	_position.y = y;
 	_position.z = z;

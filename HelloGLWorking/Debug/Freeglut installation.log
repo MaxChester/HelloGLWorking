@@ -1,19 +1,8 @@
-﻿  Cubes.cpp
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Cubes.cpp(14,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Cubes.cpp(37,29): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Cubes.cpp(37,58): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Cubes.cpp(37,87): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Cubes.cpp(38,29): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Cubes.cpp(38,58): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Cubes.cpp(38,87): warning C4305: '=': truncation from 'double' to 'float'
-  GLUTCallbacks.cpp
-  HelloGL.cpp
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(89,29): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(90,29): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(91,29): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(93,30): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(94,30): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(95,30): warning C4305: '=': truncation from 'double' to 'float'
-  Main.cpp
-  Generating Code...
+﻿  HelloGL.cpp
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(93,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(94,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(95,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(97,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(98,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\HelloGL.cpp(99,30): warning C4305: '=': truncation from 'double' to 'float'
   Freeglut installation.vcxproj -> C:\Users\maxch\Documents\Uni Files\Foggs\Semester 2\HelloGLWorking\HelloGLWorking\Debug\Freeglut installation.exe

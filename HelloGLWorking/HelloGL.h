@@ -25,6 +25,7 @@ public:
 	void InitGL(int argc, char* argv[]);
 	void InitObjects();
 	void initLighting();
+	void DrawString(const char* text, Vector3* position, Color* color);
 private:
 	float rotation;
 	float BrightnessLevel;
